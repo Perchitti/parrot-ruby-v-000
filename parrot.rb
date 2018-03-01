@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(sound)
-  puts "Squawk"
-  return
+  puts "Pretty bird!"
+  return "Squawk"
 end
